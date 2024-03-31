@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Remigiusz Barrington</h1>
 <h3 align="center">Science/Software engineering</h3>
-![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/Remspython/Remspython/assets/163171023/c262e717-50d5-4c17-8787-1226b217b08b)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remspython&label=Profile%20views&color=0e75b6&style=flat" alt="remspython" /> </p>
 
 - 🔭 I’m currently working on [Hyperion Dev Tasks](https://github.com/Remspython/byb_project)
